@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "935634249544",
+    "project_id": "flash-chaqt",
+    "storage_bucket": "flash-chaqt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935634249544:android:d37b8bd63ce0dbfb9bf57d",
+        "android_client_info": {
+          "package_name": "com.pehchankon.flashchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935634249544-m2hmrkp0hk2qbjiaq58bt0jcrnqqqagq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzYSt85v0WyJ_POKF9CexSZfAKujylkvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935634249544-m2hmrkp0hk2qbjiaq58bt0jcrnqqqagq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
